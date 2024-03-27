@@ -2,6 +2,10 @@
 
 Exemplo simples para demonstrar uma aplicação `Client-Server` por meio de um `chat` usando sockets. Basicamente, consiste em um `servidor` que gerencia as mensagens entre os `clientes` conectados. Cada cliente e servidor podem enviar e receber mensagens.
 
+![](client-server.gif)
+
+link do video no youtube: [https://youtu.be/O9wSH3AHaog](https://youtu.be/O9wSH3AHaog)
+
 ## Conceitos Principais de Client-Server
 
 O modelo cliente-servidor é uma arquitetura de rede que segmenta as tarefas entre os provedores de recursos ou serviços, conhecidos como servidores, e os solicitantes de serviços, conhecidos como clientes. Geralmente, os clientes e servidores se comunicam por uma rede de computadores em protocolos de rede específicos.
